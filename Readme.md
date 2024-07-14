@@ -15,7 +15,7 @@ Cartero is a user-friendly Postman alternative designed for API testing and inte
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cartero.git
+git clone https://github.com/tejanshsachdeva/cartero.git
 
 # Navigate into the project directory
 cd cartero
